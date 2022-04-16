@@ -13,7 +13,7 @@
       <div>
 
           <nav>
-            <a href="home.php">HOME</a>
+            <a href="index.php">HOME</a>
             <a href="insignia.php">THE INSIGNIA</a>
             <a href="contactus.php">THE ENTOURAGE</a>
             <a href="contactus.php">GUEST LIST</a>
